@@ -4,7 +4,7 @@ This is a fun and interactive Drum Kit built using **HTML**, **CSS**, and **Java
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 ![Drum Kit Screenshot](DRUM.png)
 
