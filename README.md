@@ -1,4 +1,4 @@
-# 🥁 Drum Kit - Web Project
+# 🥁 Drum Kit
 
 This is a fun and interactive Drum Kit built using **HTML**, **CSS**, and **JavaScript**. Each key on your keyboard corresponds to a unique drum sound with visual feedback on press or click. 
 
